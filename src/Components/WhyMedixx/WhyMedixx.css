@@ -1,0 +1,8 @@
+.whyMedixx{
+    background-color: rgb(115, 204, 204);
+    padding:10px;
+}
+
+.whyMedixx:hover{
+    box-shadow: 3px 5px 15px 5px #000000;
+}

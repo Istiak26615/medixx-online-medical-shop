@@ -1,0 +1,15 @@
+.doctor{
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20;  
+     
+}
+
+.fullcard:hover{
+    box-shadow: 3px 5px 15px 5px #000000;
+}
+
+.card-img{
+    height: 250px;
+    width: 250px;
+}
